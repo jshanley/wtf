@@ -1,0 +1,28 @@
+{
+  "name": "wtf-is",
+  "version": "0.1.0",
+  "description": "Tiny type-checking helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jshanley/wtf.git"
+  },
+  "keywords": [
+    "type-checking"
+  ],
+  "author": "John Shanley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jshanley/wtf/issues"
+  },
+  "homepage": "https://github.com/jshanley/wtf",
+  "devDependencies": {
+    "grunt-smash": "^0.1.0",
+    "grunt": "^0.4.4",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-uglify": "^0.4.0"
+  }
+}
