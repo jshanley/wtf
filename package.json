@@ -1,7 +1,7 @@
 {
   "name": "wtf-is",
   "version": "0.1.0",
-  "description": "Tiny type-checking helpers",
+  "description": "Tiny type-checking library",
   "main": "index.js",
   "scripts": {
     "test": "grunt test"
