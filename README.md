@@ -59,7 +59,7 @@ function setAlpha(number) {
     float: function() {
       someThing.alpha = number
     }
-  })
+  });
 }
 ```
 
@@ -80,7 +80,7 @@ function unknownInputType(input) {
     default: function() {
       // any type that wasn't specified above
     }
-  })
+  });
 }
 ```
 
