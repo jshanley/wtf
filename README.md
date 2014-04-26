@@ -8,6 +8,9 @@ Tiny JS type-checking library.
 ``` bash
 npm install wtf-is
 ```
+```javascript
+var wtf = require('wtf-is');
+```
 
 ### browser
 `git clone` this repo, or download [wtf.js](https://raw.githubusercontent.com/jshanley/wtf/master/wtf.js) or [wtf.min.js](https://raw.githubusercontent.com/jshanley/wtf/master/wtf.min.js)
@@ -16,7 +19,7 @@ Include the script as an AMD module, or directly in a script tag.
 ```javascript
 require(['wtf'], function(wtf) {
   // use the library
-})
+});
 ```
 ```html
 <script src="path/to/wtf.min.js"></script>
